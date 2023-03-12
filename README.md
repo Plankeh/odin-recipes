@@ -1,1 +1,1 @@
-# odin-recipes
+This Recipes project helped me solidy my understanding of basic HTML syntax. The Index.HTML page is the "main" page that contains and unordered list of the links to the recipes. Each recipe contains an image that I downloaded from the internet and therefore is a relative link within my local computer. Each recipe also contains headings for each section of the recipe. Finally, the recipes also contain an unordered list of ingredients and an ordered list for the instructions on how to make the dish.
